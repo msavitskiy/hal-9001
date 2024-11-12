@@ -1,6 +1,6 @@
 # Hal-9001
 
-Hal-9001 is a Go library that offers a number of facilities for creating a bot
+Hal-9001 is a Go library that offers a number of facilities for creating a chat bot
 and its plugins.
 
 # Goals
